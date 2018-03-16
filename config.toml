@@ -47,7 +47,7 @@ googleAnalytics = ""
     brand = "Ilaria Casati"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    services = "Edito"
+    services = "Services"
     portfolio = "Portfolio"
     about = "About me"
     #team = "About me"
@@ -82,7 +82,7 @@ googleAnalytics = ""
   # Services section
   [params.services]
     enable = true
-    title = "Prestations"
+    title = "Services"
     subtitle = ""
 
     [[params.services.row]]
@@ -158,7 +158,7 @@ googleAnalytics = ""
     [[params.about.events]]
       img = "logo-elle.jpg"
       date = "2011-2014"
-      title = "Lagardère Digital France -Chef de Service Mode ELLE.fr, journaliste dailyELLE et magazine ELLE"
+      title = "Lagardère Digital France - Chef de Service Mode ELLE.fr, journaliste dailyELLE et magazine ELLE"
       description = "Responsable des contenus et des audiences de la rubrique mode. Direction et animation du DailyELLE (remplacement congé maternité de Lauren Bastide). Management d'une équipe de 5 personnes. Rédaction d'articles, portraits, interviews pour les pages ELLE infos"
 
     [[params.about.events]]
