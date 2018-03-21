@@ -91,37 +91,37 @@ googleAnalytics = ""
       icon = "fa-shopping-bag"
       title = "Mode"
       description = ""
-      url = "#"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-star"
       title = "Beauté"
       description = ""
-      url = "#"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-play"
       title = "Vidéo"
       description = ""
-      url = "#"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-heart"
       title = "Lifestyle"
       description = ""
-      url = "#"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-comment"
       title = "Brand Content"
       description = ""
-      url = "#"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-cloud"
       title = "Strategie Digitale"
       description = ""
-      url = "#"
+      url = ""
 
   # Portfolio section
   [params.portfolio]
